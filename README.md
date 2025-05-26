@@ -1,6 +1,6 @@
 # LAB-4-Hospital-Management
-# NAME : HARIPRASATH S
-# REGISTER NUMBER : 212222240034
+# NAME : swetha.R
+# REGISTER NUMBER : 212223040221
 # DATE : 
 ### AIM:
 To develop the Hospital management System using Star UML tool.
