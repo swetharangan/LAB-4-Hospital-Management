@@ -1,7 +1,7 @@
 # LAB-4-Hospital-Management
 # NAME : swetha.R
 # REGISTER NUMBER : 212223040221
-# DATE : 
+ 
 ### AIM:
 To develop the Hospital management System using Star UML tool.
 ### PROBLEM STATEMENT:
